@@ -45,13 +45,6 @@ ShopProject is a comprehensive e-commerce platform designed to provide a seamles
    ./mvnw spring-boot:run
    ```
 
-## Usage
-
-Start the development server:
-npm start
-
-Open your browser and navigate to http://localhost:3000.
-
 ## Contributing
 
 Fork the repository.
