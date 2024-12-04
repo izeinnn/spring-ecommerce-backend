@@ -45,29 +45,6 @@ ShopProject is a comprehensive e-commerce platform designed to provide a seamles
    ./mvnw spring-boot:run
    ```
 
-## Contributing
-
-Fork the repository.
-Create a new branch
-
-```bash
-git checkout -b feature-branch
-```
-
-Make your changes and commit them:
-
-```bash
-git commit -m "Description of your changes"
-```
-
-Push to the branch:
-
-```bash
-git push origin feature-branch
-```
-
-Create a pull request.
-
 Project Modules
 Services
 OrderItemServiceImpl: Implements the order item service.
